@@ -17,8 +17,12 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
+    --primary: 343 75% 51%;
     --primary-foreground: 210 40% 98%;
+
+    --tailoring-gold: 43 74% 66%;
+    --tailoring-deep: 343 75% 35%;
+    --tailoring-accent: 343 75% 51%;
 
     --secondary: 210 40% 96.1%;
     --secondary-foreground: 222.2 47.4% 11.2%;
